@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Anan Qrareya</h1>
-<h3 align="center">Computer Systems Engineer | PTUK | Backend & Spring Boot</h3>
+<h3 align="center">Computer Systems Engineer | PTUK | Backend-Spring Boot</h3>
 
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=ananqrareya&label=Profile%20views&color=0e75b6&style=flat" alt="ananqrareya" />
