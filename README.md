@@ -51,22 +51,6 @@ Key Coursework:
 - Gained expertise in **ReactJS**, HTML, CSS, and JavaScript.  
 - Built several frontend projects, including responsive and interactive UIs.  
 
----
-
-## 🚀 Projects  
-
-### [**UserManagementAPI**](#) (Jan 2024)  
-- Designed a secure RESTful API for user management, supporting registration, authentication, and role-based access control.  
-- Tailored for e-commerce platforms and admin dashboards.  
-
-### [**Social Media API**](#) (May 2024)  
-- Built a robust API with **Spring Boot**, enabling user authentication, profile management, and social interactions like posting, following, and commenting.  
-
-### [**Task Management System**](#)  
-- Developed a task-tracking application with **Spring Boot** and **JPA**, featuring role-based permissions and task prioritization.  
-
-### [**Olive Shop E-commerce Website**](#)  
-- Built an e-commerce platform for product browsing, basket management, and order simulation, with admin capabilities for inventory tracking.  
 
 ---
 
